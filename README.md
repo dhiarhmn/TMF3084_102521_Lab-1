@@ -1,6 +1,4 @@
 TMA3084 SELAB - Lab 1: Pizza Order Calculator
-
-Task:
 Create a Dart program using a switch case statement and a while loop. Your GitHub repository must contain file.
 
 Requirements:
